@@ -110,6 +110,12 @@
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
     </include_path>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="208" />
+    <option name="y" value="-14" />
+    <option name="width" value="1663" />
+    <option name="height" value="1323" />
+  </component>
   <component name="ProjectId" id="1TccUp57Z2Rmy1RhUqAwjCBydfO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
