@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-Wij vinden het prachtig
+                    <img src="{{url('https://enmasi.com/EnMaSi_landing.png')}}" alt="EnMaSi"/>
                 </div>
 
                 <div class="links">
