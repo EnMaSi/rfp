@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hallo Dennis! Ik vind het prachtig. Wat een systeem... Nouuuuu, nog niet helemaal.
+Wij vinden het prachtig
                 </div>
 
                 <div class="links">
