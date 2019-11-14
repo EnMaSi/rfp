@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hallo Dennis! Hij doet het dus echt...
+                    Hallo Dennis! Hij doet het dus echt... Ik vind het prachtig
                 </div>
 
                 <div class="links">
